@@ -7,8 +7,8 @@ The project’s objective was to predict the rotor-bearing temperature of wind t
 * Created new features relevant to wind energy systems:
   * Apparent power: hypotenuses to active and reactive power
   * Power difference between active and average power: useful to detect surges
-  * Power from wind speed: P=  1/3×air density×〖(wind velocity)〗^3
-  * Frictional factor: ∝ 〖(generator speed)〗^2
+  * Power from wind speed: P=  1/3 × air density × (wind velocity)^3
+  * Frictional factor: ∝ (generator speed)^2
   * Difference between raw and convertor calculated power
   * Temperature difference between inside and outside nacelle temperature
   * Phase angle=  tan^(-1)⁡(reactive power/active power)
